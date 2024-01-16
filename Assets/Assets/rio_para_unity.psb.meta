@@ -1,0 +1,890 @@
+fileFormatVersion: 2
+guid: 1d407b4352181e442b5a736f078a44c0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: cbd528f9ddcb0ca4fbf1cb6771fa8619
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Objetivo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2172
+      width: 1035
+      height: 391
+    spriteID: 6e5dedda7e8361b4ca1a0d6259b4ceef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2172}
+    spritePosition: {x: 442, y: 1769}
+  - name: Piedra 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1047
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: dbb5ef221fc55db4aacc05778ae2d971
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1047, y: 2172}
+    spritePosition: {x: 1196, y: 1610}
+  - name: Piedra 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1145
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: cb6b4d37dacadb842844a31bb0403dfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1145, y: 2172}
+    spritePosition: {x: 889, y: 1592}
+  - name: Piedra 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1243
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: 64c6b23670ecfca489c4cce46aafc467
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1243, y: 2172}
+    spritePosition: {x: 582, y: 1547}
+  - name: Piedra 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1341
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: 91e3555583779744580b5b408e85abb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1341, y: 2172}
+    spritePosition: {x: 1094, y: 1453}
+  - name: Piedra 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1439
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: 5e3b0af10d27c754ca569c003dfe44e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1439, y: 2172}
+    spritePosition: {x: 856, y: 1416}
+  - name: Piedra 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: d810dfe76bfe9c2449bd7a4ce08dea77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1537, y: 2172}
+    spritePosition: {x: 610, y: 1326}
+  - name: Piedra 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1635
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: 881dd91b51ee0384b9547d0afd728350
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1635, y: 2172}
+    spritePosition: {x: 1094, y: 1190}
+  - name: Piedra 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1733
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: 348262b1e3ebddf45b08a5b92d4132e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1733, y: 2172}
+    spritePosition: {x: 811, y: 1204}
+  - name: Piedra 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1831
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: 87b0f0449ba77304388adb04074b4c1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1831, y: 2172}
+    spritePosition: {x: 520, y: 1100}
+  - name: Piedra 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1929
+      y: 2172
+      width: 90
+      height: 90
+    spriteID: 6e6cdad94e6e77f41965f17e65551bd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1929, y: 2172}
+    spritePosition: {x: 1196, y: 965}
+  - name: Piedra 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1047
+      y: 2270
+      width: 90
+      height: 90
+    spriteID: 1eef5186ad9cf684f895bfe751c0e3fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1047, y: 2270}
+    spritePosition: {x: 934, y: 1010}
+  - name: Piedra 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1145
+      y: 2270
+      width: 90
+      height: 90
+    spriteID: e4fb6dbef2ed4224b946cc15ddd1a4ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1145, y: 2270}
+    spritePosition: {x: 669, y: 920}
+  - name: Piedra 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1243
+      y: 2270
+      width: 90
+      height: 90
+    spriteID: bc1a68cc1293ae84fa78892e09dcb01b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1243, y: 2270}
+    spritePosition: {x: 1151, y: 785}
+  - name: Piedra 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1341
+      y: 2270
+      width: 90
+      height: 90
+    spriteID: d07d413eb1c70744f9b91d2adc990083
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1341, y: 2270}
+    spritePosition: {x: 870, y: 717}
+  - name: Piedra 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1439
+      y: 2270
+      width: 90
+      height: 90
+    spriteID: 5d889a045e8943b479e2d61b8ce67011
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1439, y: 2270}
+    spritePosition: {x: 610, y: 740}
+  - name: Piedra 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 2270
+      width: 90
+      height: 90
+    spriteID: 43e8dd62bc93b6744a721d07d37a9a9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1537, y: 2270}
+    spritePosition: {x: 1217, y: 501}
+  - name: Piedra 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1635
+      y: 2270
+      width: 90
+      height: 90
+    spriteID: 76cbb1364c2ba1042ad39a7e8421bc5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1635, y: 2270}
+    spritePosition: {x: 901, y: 546}
+  - name: Piedra 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1733
+      y: 2270
+      width: 90
+      height: 90
+    spriteID: 444711c2648a48f4dbde35edae596835
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1733, y: 2270}
+    spritePosition: {x: 579, y: 456}
+  - name: Casa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2571
+      width: 1035
+      height: 391
+    spriteID: daf35a82fa61cca43b906972f5fd2686
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2571}
+    spritePosition: {x: 442, y: 0}
+  - name: Rio
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 2160
+    spriteID: 35202e36110f5234c83d9c23cf02f41e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Piedras
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: db59d6fb3499e104eab4232cd9b8c26b
+    layerID: 20
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Objetivo
+    spriteName: Objetivo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6e5dedda7e8361b4ca1a0d6259b4ceef
+    layerID: 23
+    mosaicPosition: {x: 4, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Soluciones 6
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: a92bc3208a4e92941a0ee2c1a0b3ca6c
+    layerID: 54
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Piedra 3
+    spriteName: Piedra 3
+    isGroup: 0
+    parentIndex: 2
+    spriteID: dbb5ef221fc55db4aacc05778ae2d971
+    layerID: 53
+    mosaicPosition: {x: 1047, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 2
+    spriteName: Piedra 2
+    isGroup: 0
+    parentIndex: 2
+    spriteID: cb6b4d37dacadb842844a31bb0403dfb
+    layerID: 52
+    mosaicPosition: {x: 1145, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 1
+    spriteName: Piedra 1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 64c6b23670ecfca489c4cce46aafc467
+    layerID: 51
+    mosaicPosition: {x: 1243, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Soluciones 5
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 0e6aaf299f03bb348b4620fa3230e0f0
+    layerID: 49
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Piedra 3
+    spriteName: Piedra 3
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 91e3555583779744580b5b408e85abb0
+    layerID: 48
+    mosaicPosition: {x: 1341, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 2
+    spriteName: Piedra 2
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 5e3b0af10d27c754ca569c003dfe44e5
+    layerID: 47
+    mosaicPosition: {x: 1439, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 1
+    spriteName: Piedra 1
+    isGroup: 0
+    parentIndex: 6
+    spriteID: d810dfe76bfe9c2449bd7a4ce08dea77
+    layerID: 46
+    mosaicPosition: {x: 1537, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Soluciones 4
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: bbaec838c7d01dd43879dac09a99d22d
+    layerID: 44
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Piedra 3
+    spriteName: Piedra 3
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 881dd91b51ee0384b9547d0afd728350
+    layerID: 43
+    mosaicPosition: {x: 1635, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 2
+    spriteName: Piedra 2
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 348262b1e3ebddf45b08a5b92d4132e6
+    layerID: 42
+    mosaicPosition: {x: 1733, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 1
+    spriteName: Piedra 1
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 87b0f0449ba77304388adb04074b4c1b
+    layerID: 41
+    mosaicPosition: {x: 1831, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Soluciones 3
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 25829da6c9903a7429f2ebad56854fbe
+    layerID: 39
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Piedra 3
+    spriteName: Piedra 3
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 6e6cdad94e6e77f41965f17e65551bd9
+    layerID: 38
+    mosaicPosition: {x: 1929, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 2
+    spriteName: Piedra 2
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 1eef5186ad9cf684f895bfe751c0e3fb
+    layerID: 37
+    mosaicPosition: {x: 1047, y: 2270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 1
+    spriteName: Piedra 1
+    isGroup: 0
+    parentIndex: 14
+    spriteID: e4fb6dbef2ed4224b946cc15ddd1a4ec
+    layerID: 36
+    mosaicPosition: {x: 1145, y: 2270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Soluciones 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 56cdbad59271b9246961b70b1a6bc007
+    layerID: 34
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Piedra 3
+    spriteName: Piedra 3
+    isGroup: 0
+    parentIndex: 18
+    spriteID: bc1a68cc1293ae84fa78892e09dcb01b
+    layerID: 33
+    mosaicPosition: {x: 1243, y: 2270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 2
+    spriteName: Piedra 2
+    isGroup: 0
+    parentIndex: 18
+    spriteID: d07d413eb1c70744f9b91d2adc990083
+    layerID: 32
+    mosaicPosition: {x: 1341, y: 2270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 1
+    spriteName: Piedra 1
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 5d889a045e8943b479e2d61b8ce67011
+    layerID: 31
+    mosaicPosition: {x: 1439, y: 2270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Soluciones 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: a665b46974210424e97c38e547827e41
+    layerID: 28
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Piedra 3
+    spriteName: Piedra 3
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 43e8dd62bc93b6744a721d07d37a9a9e
+    layerID: 27
+    mosaicPosition: {x: 1537, y: 2270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 2
+    spriteName: Piedra 2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 76cbb1364c2ba1042ad39a7e8421bc5c
+    layerID: 26
+    mosaicPosition: {x: 1635, y: 2270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Piedra 1
+    spriteName: Piedra 1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 444711c2648a48f4dbde35edae596835
+    layerID: 24
+    mosaicPosition: {x: 1733, y: 2270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Casa
+    spriteName: Casa
+    isGroup: 0
+    parentIndex: 0
+    spriteID: daf35a82fa61cca43b906972f5fd2686
+    layerID: 15
+    mosaicPosition: {x: 4, y: 2571}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rio
+    spriteName: Rio
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 35202e36110f5234c83d9c23cf02f41e
+    layerID: 6
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 1
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

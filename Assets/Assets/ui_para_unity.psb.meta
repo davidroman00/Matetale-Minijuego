@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: dd5998fc681b2644fb620c5041456ee2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 5703c0f85a4430b4597e054b6582f7e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Interrogante
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1574
+      y: 241
+      width: 107
+      height: 107
+    spriteID: f8d85e8cb6c892740aee266eca7ec64a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1574, y: 241}
+    spritePosition: {x: 1451, y: 228}
+  - name: Interrogante apagado
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1458
+      y: 241
+      width: 108
+      height: 107
+    spriteID: 6cc8d370330333e45b87d48305afa70c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1458, y: 241}
+    spritePosition: {x: 1450, y: 228}
+  - name: Corazon 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1900
+      y: 153
+      width: 72
+      height: 62
+    spriteID: feb690c5da36adf4aa9898b95317db50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1900, y: 153}
+    spritePosition: {x: 234, y: 980}
+  - name: Corazon 3 apagado
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 688
+      y: 414
+      width: 72
+      height: 62
+    spriteID: aed7b4da7fe97814a93bf8e6ad835604
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 688, y: 414}
+    spritePosition: {x: 234, y: 981}
+  - name: Corazon 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 768
+      y: 414
+      width: 72
+      height: 62
+    spriteID: 552cc44e69038b34abbe70557dcbfacf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 768, y: 414}
+    spritePosition: {x: 139, y: 980}
+  - name: Corazon 2 apagado
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 848
+      y: 414
+      width: 72
+      height: 62
+    spriteID: 7cb37984cfc777d408a7aa8b6fb3138c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 848, y: 414}
+    spritePosition: {x: 139, y: 981}
+  - name: Corazon 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 928
+      y: 414
+      width: 72
+      height: 62
+    spriteID: e1d107814ed655a4bbed33d8b0741ae3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 928, y: 414}
+    spritePosition: {x: 45, y: 980}
+  - name: Corazon 1 apagado
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 414
+      width: 72
+      height: 62
+    spriteID: 45629131be37e6643835ea5568fcb2af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1024, y: 414}
+    spritePosition: {x: 45, y: 981}
+  - name: Exclamacion
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1360
+      y: 241
+      width: 90
+      height: 146
+    spriteID: a6c8c0006d5e5b64f9366f114bd0afcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1360, y: 241}
+    spritePosition: {x: 1830, y: 934}
+  - name: Respuesta 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1208
+      y: 4
+      width: 338
+      height: 165
+    spriteID: 1ca90547c8792884895c63f112b10264
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1208, y: 4}
+    spritePosition: {x: 1174, y: 32}
+  - name: Respuesta 3 apagada
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1554
+      y: 4
+      width: 338
+      height: 165
+    spriteID: 95cb4fafa7854b14eb72ed030dfc606c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1554, y: 4}
+    spritePosition: {x: 1174, y: 32}
+  - name: Respuesta 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 241
+      width: 334
+      height: 165
+    spriteID: 9c1b4fe84a60ee444834059290b95a3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 241}
+    spritePosition: {x: 789, y: 32}
+  - name: Respuesta 2 apagada
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 241
+      width: 334
+      height: 165
+    spriteID: 152a344a50f62a046a6693dfbf850c5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 346, y: 241}
+    spritePosition: {x: 789, y: 32}
+  - name: Respuesta 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 688
+      y: 241
+      width: 328
+      height: 165
+    spriteID: a1f39b1bc31f2954c87add0648dc2b16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 688, y: 241}
+    spritePosition: {x: 410, y: 32}
+  - name: Respuesta 1 apagada
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 241
+      width: 328
+      height: 165
+    spriteID: d9b6fb9795a68cc48bde42b5292a0de8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1024, y: 241}
+    spritePosition: {x: 410, y: 32}
+  - name: Caja respuestas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1196
+      height: 229
+    spriteID: d725c045b33d37442bc2b7bf20b410f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 362, y: 0}
+  - name: Manecilla
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1008
+      y: 414
+      width: 4
+      height: 32
+    spriteID: d4f6cb9b148c1104a8d300279aae5ec1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 414}
+    spritePosition: {x: 958, y: 968}
+  - name: Reloj
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1900
+      y: 4
+      width: 126
+      height: 141
+    spriteID: b83ff1a26bf76ea4f83e7c3407a3f587
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1900, y: 4}
+    spritePosition: {x: 897, y: 901}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Interrogante
+    spriteName: Interrogante
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f8d85e8cb6c892740aee266eca7ec64a
+    layerID: 4
+    mosaicPosition: {x: 1574, y: 241}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Interrogante apagado
+    spriteName: Interrogante apagado
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6cc8d370330333e45b87d48305afa70c
+    layerID: 27
+    mosaicPosition: {x: 1458, y: 241}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corazones
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8d96c19e8f325c84293e7295b1695dad
+    layerID: 8
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Corazon 3
+    spriteName: Corazon 3
+    isGroup: 0
+    parentIndex: 2
+    spriteID: feb690c5da36adf4aa9898b95317db50
+    layerID: 7
+    mosaicPosition: {x: 1900, y: 153}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corazon 3 apagado
+    spriteName: Corazon 3 apagado
+    isGroup: 0
+    parentIndex: 2
+    spriteID: aed7b4da7fe97814a93bf8e6ad835604
+    layerID: 28
+    mosaicPosition: {x: 688, y: 414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corazon 2
+    spriteName: Corazon 2
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 552cc44e69038b34abbe70557dcbfacf
+    layerID: 6
+    mosaicPosition: {x: 768, y: 414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corazon 2 apagado
+    spriteName: Corazon 2 apagado
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 7cb37984cfc777d408a7aa8b6fb3138c
+    layerID: 29
+    mosaicPosition: {x: 848, y: 414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corazon 1
+    spriteName: Corazon 1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: e1d107814ed655a4bbed33d8b0741ae3
+    layerID: 5
+    mosaicPosition: {x: 928, y: 414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corazon 1 apagado
+    spriteName: Corazon 1 apagado
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 45629131be37e6643835ea5568fcb2af
+    layerID: 30
+    mosaicPosition: {x: 1024, y: 414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Exclamacion
+    spriteName: Exclamacion
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a6c8c0006d5e5b64f9366f114bd0afcb
+    layerID: 10
+    mosaicPosition: {x: 1360, y: 241}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Respuestas
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 78ee7ba878dc6994488968eb30c9e2c1
+    layerID: 15
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Respuesta 3
+    spriteName: Respuesta 3
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 1ca90547c8792884895c63f112b10264
+    layerID: 14
+    mosaicPosition: {x: 1208, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Respuesta 3 apagada
+    spriteName: Respuesta 3 apagada
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 95cb4fafa7854b14eb72ed030dfc606c
+    layerID: 24
+    mosaicPosition: {x: 1554, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Respuesta 2
+    spriteName: Respuesta 2
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 9c1b4fe84a60ee444834059290b95a3f
+    layerID: 13
+    mosaicPosition: {x: 4, y: 241}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Respuesta 2 apagada
+    spriteName: Respuesta 2 apagada
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 152a344a50f62a046a6693dfbf850c5d
+    layerID: 25
+    mosaicPosition: {x: 346, y: 241}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Respuesta 1
+    spriteName: Respuesta 1
+    isGroup: 0
+    parentIndex: 10
+    spriteID: a1f39b1bc31f2954c87add0648dc2b16
+    layerID: 12
+    mosaicPosition: {x: 688, y: 241}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Respuesta 1 apagada
+    spriteName: Respuesta 1 apagada
+    isGroup: 0
+    parentIndex: 10
+    spriteID: d9b6fb9795a68cc48bde42b5292a0de8
+    layerID: 26
+    mosaicPosition: {x: 1024, y: 241}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Caja respuestas
+    spriteName: Caja respuestas
+    isGroup: 0
+    parentIndex: 10
+    spriteID: d725c045b33d37442bc2b7bf20b410f0
+    layerID: 11
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Reloj
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: f3b9f2be92dd4ea41b2d29a76acd448f
+    layerID: 18
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Manecilla
+    spriteName: Manecilla
+    isGroup: 0
+    parentIndex: 18
+    spriteID: d4f6cb9b148c1104a8d300279aae5ec1
+    layerID: 17
+    mosaicPosition: {x: 1008, y: 414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Reloj
+    spriteName: Reloj
+    isGroup: 0
+    parentIndex: 18
+    spriteID: b83ff1a26bf76ea4f83e7c3407a3f587
+    layerID: 20
+    mosaicPosition: {x: 1900, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 1
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
