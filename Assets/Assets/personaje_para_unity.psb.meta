@@ -94,7 +94,7 @@ ScriptedImporter:
     spritePosition: {x: 0, y: 0}
   multiSpriteImportData: []
   layeredSpriteImportData:
-  - name: Capa 1
+  - name: happy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -114,6 +114,27 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 50, y: 27}
+  - name: sadge
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 4
+      width: 50
+      height: 96
+    spriteID: cf0ab0d62634e5a4da6a5eb5a731f1ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 4}
     spritePosition: {x: 50, y: 27}
   spriteImportData: []
   rigSpriteImportData: []
@@ -152,13 +173,23 @@ ScriptedImporter:
   resliceFromLayer: 0
   pSDLayerImportSetting: []
   psdLayers:
-  - name: Capa 1
-    spriteName: Capa 1
+  - name: happy
+    spriteName: happy
     isGroup: 0
     parentIndex: -1
     spriteID: ba9026da9938fd548a7db000ccdd90ba
     layerID: 2
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: sadge
+    spriteName: sadge
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cf0ab0d62634e5a4da6a5eb5a731f1ee
+    layerID: 4
+    mosaicPosition: {x: 62, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
